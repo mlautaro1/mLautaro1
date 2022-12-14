@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlautaro1&label=Profile%20views&color=0e75b6&style=flat" alt="mlautaro1" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mlautaro1](https://github.com/mlautaro1)
+- 👨‍💻 All of my projects are available at [https://github.com/mlautaro1?tab=repositories](https://github.com/mlautaro1)
 
 - 📫 How to reach me **mlautarodev@gmail.com**
 
